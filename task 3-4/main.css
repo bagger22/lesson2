@@ -1,0 +1,42 @@
+
+ /* task 5 */
+ul{
+    list-style-type: square;
+}
+
+/* task 6 */
+li::before {
+	content: "_";
+}
+
+li{
+list-style-type: none;
+}
+
+/* task 7 */
+ul {
+    list-style-image: url(/example/image/book.png);
+}
+
+/* task 8 */
+li {
+    display: inline-block;
+    padding: 10px;
+}
+  
+/* task 10 */
+td {
+    background-color: #ececec;
+    padding: 0.5rem;
+}
+
+/* task 11 */
+table {
+    border-spacing: 4px;
+}
+
+td {
+    background-color: #4c715b;
+    color: #fff;
+    padding: 10px;
+}
